@@ -1,6 +1,8 @@
 ## ToDo-List-Project-with-PHP-MongoDB
 A simple, responsive To-Do List web application built with PHP, MongoDB Atlas, and Tailwind CSS. This application demonstrates efficient use of PHP with MongoDB, offering functionality to create, update, mark as complete, and delete tasks.
 
+![ToDo List Preview](path/to/screenshot.png) <!-- Add a screenshot of your application here -->
+
 ## Features
 - **Add New Tasks**: Users can add tasks with a title and description.
 - **Edit/Update Tasks**: Modify existing tasks to keep them up to date.
